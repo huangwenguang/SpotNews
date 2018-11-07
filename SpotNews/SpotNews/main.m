@@ -1,6 +1,6 @@
 ﻿//
 //  main.m
-//  SpotNews测试
+//  SpotNews测试1
 //
 //  Created by WenGuangHuang on 16/8/16.
 //  Copyright © 2016年 jin10. All rights reserved.
