@@ -1,0 +1,25 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+    "cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d" : {
+
+    }
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "C0276BCB-F496-4270-B534-D10E9EEF1B1C",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d" : "Jin10_iOS_New\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "SpotNews",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "trunk\/SpotNews\/SpotNews.xcworkspace",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/120.24.163.205\/svn\/Jin10_iOS_New",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Subversion",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d"
+    }
+  ]
+}

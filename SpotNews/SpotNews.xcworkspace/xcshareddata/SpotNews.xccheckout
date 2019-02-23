@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C0276BCB-F496-4270-B534-D10E9EEF1B1C</string>
+	<key>IDESourceControlProjectName</key>
+	<string>SpotNews</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d</key>
+		<string>https://120.24.163.205/svn/Jin10_iOS_New</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>trunk/SpotNews/SpotNews.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d</key>
+		<string>../../..</string>
+	</dict>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.subversion</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>cf593bc3-758e-d14b-b5ad-8c4a8b7ae57d</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Jin10_iOS_New</string>
+		</dict>
+	</array>
+</dict>
+</plist>
